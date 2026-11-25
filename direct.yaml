@@ -1,6 +1,7 @@
 payload:
   # 常用网站
   - DOMAIN-SUFFIX,lyserver.xyz
+  - DOMAIN-SUFFIX,sunketems.com
 
   # 指定 API
   - DOMAIN,lyserver.xyz
